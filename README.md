@@ -301,10 +301,3 @@ CORS_ORIGINS=["http://localhost:3000", "your-frontend-url"]
 - [ ] Fine-tuned PaddleOCR on event poster dataset
 - [ ] Database persistence (PostgreSQL/Supabase)
 
-## License
-
-MIT
-
-## Contributors
-
-Built with Claude Code as an MVP demonstration of hybrid OCR/Vision extraction.
